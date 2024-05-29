@@ -37,7 +37,7 @@ the library's own API.
 
 ### Requirements
 
-* PHP ^7.4 || ^8.0
+* PHP ^7.4 || ^8.0 || ^8.1
 
 ## Installation
 
