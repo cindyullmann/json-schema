@@ -1,5 +1,5 @@
 {
-    "name": "opis/json-schema",
+    "name": "cindyullmann/json-schema",
     "description": "Json Schema Validator for PHP",
     "keywords": [
         "json",
@@ -18,6 +18,10 @@
         {
             "name": "Marius Sarca",
             "email": "marius.sarca@gmail.com"
+        },
+        {
+            "name": "Cindy Ullmann",
+            "email": "cindystirnnagel@gmail.com"
         }
     ],
     "require": {
